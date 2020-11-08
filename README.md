@@ -1,2 +1,2 @@
-# PRO-37
-INFINITE RUNNER GAME
+# trex
+Offline Game where trex jumps and runs over the obstacles.
